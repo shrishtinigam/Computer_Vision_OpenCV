@@ -1,6 +1,6 @@
 # Computer Vision Assignments Solved Using Python + OpenCV
-Contains laboratory assignment solutions using Python3 and cv2.
-Each assignemnt is solved using inbuilt cv2 operations and user-defined functions.
+#### Contains laboratory assignment solutions using Python3 and cv2.
+#### Each assignment is solved using inbuilt cv2 operations and user-defined functions.
 
 ### Computer Vision Lab 2
 *	Image addition
