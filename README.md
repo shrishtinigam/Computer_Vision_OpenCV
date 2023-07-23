@@ -6,9 +6,9 @@ Each assignemnt is solved using inbuilt cv2 operations and user-defined function
 *	Image addition
 *	Image Subtraction
 *	Image Enhancement –
-  *	 GrayScale Histogram Equalization: We find out the histograms of the grayscale image and look for the distribution of intensities. We will use cv2.equalizeHist() function with the purpose of equalizing the contrast of a given grayscale image. cv2.equalizeHist() function normalises the brightness and also increases the contrast.
-  *	 Intensity Slicing: It highlights a specific range of grey levels in an image. 1st transformation brightens the desired range of grey levels but preserves grey levels unchanged. 2nd transformation displays a high value of all grey levels in the range of interest and a low value for all other grey levels.
-  *	 Sharpen: The process of blurring, sharpening, embossing, edge detection, and others, require that a kernel be applied to the image pixels, which is also why this process is also referred to as Convolution- i.e, the process during which the kernel is applied to the image. Commonly used sharpening kernel is: https://en.wikipedia.org/wiki/Kernel_(image_processing)
+ *	GrayScale Histogram Equalization: We find out the histograms of the grayscale image and look for the distribution of intensities. We will use cv2.equalizeHist() function with the purpose of equalizing the contrast of a given grayscale image. cv2.equalizeHist() function normalises the brightness and also increases the contrast.
+ *	Intensity Slicing: It highlights a specific range of grey levels in an image. 1st transformation brightens the desired range of grey levels but preserves grey levels unchanged. 2nd transformation displays a high value of all grey levels in the range of interest and a low value for all other grey levels.
+ *	Sharpen: The process of blurring, sharpening, embossing, edge detection, and others, require that a kernel be applied to the image pixels, which is also why this process is also referred to as Convolution- i.e, the process during which the kernel is applied to the image. Commonly used sharpening kernel is: https://en.wikipedia.org/wiki/Kernel_(image_processing)
 
 ### Computer Vision Lab 3
 * Image Enhancement by adding a constant value ‘90’ to first half of the image
